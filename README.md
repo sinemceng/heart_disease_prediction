@@ -47,4 +47,4 @@ Projeyi yerelinizde çalıştırmak için:
 
 Bilgisayar Mühendisliği Öğrencisi
 
-[Linkedin Profilim](https://github.com/sinemceng) | [E-posta Adresim](sinozdemir04@gmail.com)
+[Linkedin Profilim](www.linkedin.com/in/sinemozdemir1) | [E-posta Adresim](sinozdemir04@gmail.com)
