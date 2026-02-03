@@ -2,6 +2,9 @@
 
 #### Bu proje, UCI Heart Disease veri seti kullanılarak geliştirilmiş, uçtan uca bir makine öğrenmesi uygulamasıdır. Kullanıcıların demografik ve klinik sağlık verilerini analiz ederek kalp hastalığı riskini tahmin eder.
 
+<img width="1918" height="802" alt="image" src="https://github.com/user-attachments/assets/f79bdfcf-6a59-4428-9688-0acfd4abbadf" />
+
+
 ## 📊 Proje Mutfak: Ar-Ge Süreci (.ipynb)
 
 Projenin temelini oluşturan heart_disease_prediction.ipynb dosyasında şu aşamalar gerçekleştirilmiştir:
