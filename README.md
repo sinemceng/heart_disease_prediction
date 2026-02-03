@@ -45,6 +45,10 @@ Projeyi yerelinizde çalıştırmak için:
 
 3. Uygulamayı başlatın: streamlit run main.py
 
+#### VERİ SETİ:
+
+İlgili veri seti Kaggle platformu üzerinden (Redwan Karim Sony - Heart Disease Data) temin edilmiştir. [Link: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data]
+
 ## Geliştirici
 **Sinem Özdemir**
 
